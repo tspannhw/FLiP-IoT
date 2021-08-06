@@ -1,5 +1,6 @@
 # FLiP-IoT
 FLiP - IoT Examples with Go, Java, MiNiFi, Flink, Pulsar, StreamNative, JSON
+FLiP = Apache FLink integrated with Apache Pulsar.   (And sometimes Apache NiFi and other Apache friends)
 
 
 # Java Producer
