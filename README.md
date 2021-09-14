@@ -53,4 +53,7 @@ go mod tidy
 
 go build -o iot iotproducer.go
 
+# Run local
+
+./iotlocal
 
