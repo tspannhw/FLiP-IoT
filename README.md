@@ -57,3 +57,8 @@ go build -o iot iotproducer.go
 
 ./iotlocal
 
+# Local CLI Consumer
+
+bin/pulsar-client consume "persistent://public/default/nvidia-sensor-partition-0" -s "nano2gbgo" -n 0
+
+
