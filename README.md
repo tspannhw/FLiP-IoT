@@ -66,3 +66,7 @@ bin/pulsar-client consume "persistent://public/default/nvidia-sensor-partition-0
 
 python2 sensors.py
 
+# Sensors
+
+https://www.waveshare.com/environment-sensor-for-jetson-nano.htm
+
