@@ -62,3 +62,7 @@ go build -o iot iotproducer.go
 bin/pulsar-client consume "persistent://public/default/nvidia-sensor-partition-0" -s "nano2gbgo" -n 0
 
 
+# Running sensors on NVIDIA Jetson Nano with environment sensor
+
+python2 sensors.py
+
