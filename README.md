@@ -68,5 +68,6 @@ python2 sensors.py
 
 # Sensors
 
-https://www.waveshare.com/environment-sensor-for-jetson-nano.htm
+* https://www.waveshare.com/environment-sensor-for-jetson-nano.htm
+* https://www.waveshare.com/wiki/Environment_Sensor_for_Jetson_Nano
 
